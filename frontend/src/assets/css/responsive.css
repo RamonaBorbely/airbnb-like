@@ -1,0 +1,29 @@
+
+/* Mobile phones */
+@media (min-width: 320px) and (max-width: 480px) {
+   .logo, .log-menu {
+    display: none;
+   }
+}
+
+/* Tablets */
+@media (min-width: 481px) and (max-width: 768px) {
+    .logo p {
+        display: none;
+    }
+}
+
+/* Laptops */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+/* Desktop */
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+}
+
+/* XL */
+@media (min-width: 1201px)  {
+
+}
